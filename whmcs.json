@@ -1,0 +1,32 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-servers",
+    "name": "dedimax",
+    "license": "MIT",
+    "category": "provisioning",
+    "description": {
+        "name": "Dedimax",
+        "tagline": "Provisioning and management of cloud & dedicated servers.",
+        "long": "Module allows to provisioning cloud & dedicated servers. Client & Admin facing user interfaces.",
+        "features": [
+            "Provide both client and admin facing user interfaces",
+            "Provide structure for cloud servers",
+            "Provide structure for dedicated servers"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/www.dedimax.com\/",  
+        "email": "support@dedimax.com", 
+        "support_url": "https:\/\/support.whmcs.com\/",
+        "docs_url": "https:\/\/developers.whmcs.com\/provisioning-modules\/"
+    },
+    "authors": [
+        {
+            "name": "dedimax",
+            "homepage": "https:\/\/www.dedimax.com\/"
+        }
+    ]
+}
